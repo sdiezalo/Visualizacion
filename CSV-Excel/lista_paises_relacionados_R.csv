@@ -1,0 +1,246 @@
+"","lista_paises","lista_paises_siglas","Paises_relacionados"
+"1","Aruba","ABW",NA
+"2","Afghanistan","AFG","PAK"
+"3","Angola","AGO","BDI CAF COD COG KEN RWA SDN TZA UGA ZMB ZAF SSD"
+"4","Anguilla","AIA",NA
+"5","Albania","ALB",NA
+"6","Andorra","AND",NA
+"7","United Arab Emirates","ARE",NA
+"8","Argentina","ARG","GBR"
+"9","Armenia","ARM","AZE RUS"
+"10","American Samoa","ASM",NA
+"11","Antarctica","ATA",NA
+"12","French Southern Territories","ATF",NA
+"13","Antigua and Barbuda","ATG",NA
+"14","Australia","AUS",NA
+"15","Austria","AUT",NA
+"16","Azerbaijan","AZE","ARM RUS"
+"17","Burundi","BDI","AGO CAF COD COG KEN RWA SDN TZA UGA ZMB ZAF SSD"
+"18","Belgium","BEL",NA
+"19","Benin","BEN",NA
+"20","Burkina Faso","BFA",NA
+"21","Bangladesh","BGD",NA
+"22","Bulgaria","BGR",NA
+"23","Bahrain","BHR",NA
+"24","Bahamas","BHS",NA
+"25","Bosnia and Herzegovina","BIH",NA
+"26","Saint Bartholemy","BLM",NA
+"27","Belarus","BLR",NA
+"28","Belize","BLZ",NA
+"29","Bermuda","BMU",NA
+"30","Bolivia","BOL",NA
+"31","Brazil","BRA",NA
+"32","Barbados","BRB",NA
+"33","Brunei Darussalam","BRN",NA
+"34","Bhutan","BTN",NA
+"35","Bouvet Island","BVT",NA
+"36","Botswana","BWA",NA
+"37","Central African Republic","CAF","AGO BDI COD COG KEN RWA SDN TZA UGA ZMB ZAF SSD TCD"
+"38","Canada","CAN",NA
+"39","Cocos (Keeling) Islands","CCK",NA
+"40","Switzerland","CHE",NA
+"41","Chile","CHL",NA
+"42","China","CHN","IND JPN KOR PRK RUS USA KAZ KGZ TJK MNG"
+"43","Cote d'Ivoire","CIV",NA
+"44","Cameroon","CMR","NGA"
+"45","Democratic Republic of Congo","COD","AGO BDI CAF COG KEN RWA SDN TZA UGA ZMB ZAF SSD"
+"46","Republic of Congo","COG","AGO BDI CAF COD KEN RWA SDN TZA UGA ZMB ZAF SSD"
+"47","Cook Islands","COK",NA
+"48","Colombia","COL","VEN"
+"49","Comoros","COM",NA
+"50","Cape Verde","CPV",NA
+"51","Costa Rica","CRI","GTM HND NIC SLV"
+"52","Cuba","CUB",NA
+"53","Christmas Island","CXR",NA
+"54","Cayman Islands","CYM",NA
+"55","Cyprus","CYP",NA
+"56","Czech Republic","CZE",NA
+"57","Germany","DEU","FRA GBR RUS USA"
+"58","Djibouti","DJI","ERI"
+"59","Dominica","DMA",NA
+"60","Denmark","DNK",NA
+"61","Dominican Republic","DOM",NA
+"62","Algeria","DZA",NA
+"63","Ecuador","ECU","PER"
+"64","Egypt","EGY",NA
+"65","Eritrea","ERI","DJI ETH SOM SDN"
+"66","Western Sahara","ESH","MAR"
+"67","Spain","ESP",NA
+"68","Estonia","EST",NA
+"69","Ethiopia","ETH","ERI SOM KEN"
+"70","Finland","FIN",NA
+"71","Fiji","FJI",NA
+"72","Falkland Islands (Malvinas)","FLK",NA
+"73","France","FRA","DEU GBR RUS USA"
+"74","Faroe Islands","FRO",NA
+"75","Micronesia, Federated States of","FSM",NA
+"76","Gabon","GAB",NA
+"77","United Kingdom","GBR","ARG DEU FRA RUS USA IRL"
+"78","Georgia","GEO","RUS"
+"79","Guernsey","GGY",NA
+"80","Ghana","GHA",NA
+"81","Gibraltar","GIB",NA
+"82","Guinea","GIN",NA
+"83","Guadeloupe","GLP",NA
+"84","Gambia","GMB",NA
+"85","Guinea-Bissau","GNB",NA
+"86","Equatorial Guinea","GNQ",NA
+"87","Greece","GRC",NA
+"88","Grenada","GRD",NA
+"89","Greenland","GRL",NA
+"90","Guatemala","GTM","CRI HND NIC SLV"
+"91","French Guiana","GUF",NA
+"92","Guam","GUM",NA
+"93","Guyana","GUY",NA
+"94","Hong Kong","HKG",NA
+"95","Heard Island and McDonald Islands","HMD",NA
+"96","Honduras","HND","CRI GTM NIC SLV"
+"97","Croatia","HRV","SVN"
+"98","Haiti","HTI",NA
+"99","Hungary","HUN",NA
+"100","Indonesia","IDN","PRT TLS"
+"101","Isle of Man","IMN",NA
+"102","India","IND","CHN PAK"
+"103","British Indian Ocean Territory","IOT",NA
+"104","Ireland","IRL","GBR"
+"105","Iran","IRN",NA
+"106","Iraq","IRQ","KWT USA"
+"107","Iceland","ISL",NA
+"108","Israel","ISR","JOR PSE LBN"
+"109","Italy","ITA",NA
+"110","Jamaica","JAM",NA
+"111","Jersey","JEY",NA
+"112","Jordan","JOR","ISR PSE"
+"113","Japan","JPN","CHN KOR PRK RUS USA"
+"114","Kazakhstan","KAZ","CHN KGZ RUS TJK"
+"115","Kenya","KEN","AGO BDI CAF COD COG RWA SDN TZA UGA ZMB ETH"
+"116","Kyrgyzstan","KGZ","CHN KAZ RUS TJK"
+"117","Cambodia","KHM",NA
+"118","Kiribati","KIR",NA
+"119","Saint Kitts and Nevis","KNA",NA
+"120","South Korea","KOR","CHN JPN PRK RUS USA"
+"121","Kuwait","KWT","IRQ"
+"122","Lao People's Democratic Republic","LAO",NA
+"123","Lebanon","LBN","ISR SYR"
+"124","Liberia","LBR",NA
+"125","Libya","LBY","TCD"
+"126","Saint Lucia","LCA",NA
+"127","Liechtenstein","LIE",NA
+"128","Sri Lanka","LKA",NA
+"129","Lesotho","LSO",NA
+"130","Lithuania","LTU",NA
+"131","Luxembourg","LUX",NA
+"132","Latvia","LVA",NA
+"133","Macao","MAC",NA
+"134","Saint Martin (French part)","MAF",NA
+"135","Morocco","MAR","ESH"
+"136","Monaco","MCO",NA
+"137","Moldova","MDA","RUS"
+"138","Madagascar","MDG",NA
+"139","Maldives","MDV",NA
+"140","Mexico","MEX",NA
+"141","Marshall Islands","MHL",NA
+"142","Macedonia","MKD",NA
+"143","Mali","MLI","NER"
+"144","Malta","MLT",NA
+"145","Myanmar","MMR",NA
+"146","Montenegro","MNE",NA
+"147","Mongolia","MNG","CHN RUS"
+"148","Northern Mariana Islands","MNP",NA
+"149","Mozambique","MOZ",NA
+"150","Mauritania","MRT",NA
+"151","Montserrat","MSR",NA
+"152","Martinique","MTQ",NA
+"153","Mauritius","MUS",NA
+"154","Malawi","MWI",NA
+"155","Malaysia","MYS",NA
+"156","Mayotte","MYT",NA
+"157","Namibia","NAM","ZAF"
+"158","New Caledonia","NCL",NA
+"159","Niger","NER","MLI"
+"160","Norfolk Island","NFK",NA
+"161","Nigeria","NGA","CMR"
+"162","Nicaragua","NIC","CRI GTM HND SLV"
+"163","Niue","NIU",NA
+"164","Netherlands","NLD",NA
+"165","Norway","NOR",NA
+"166","Nepal","NPL",NA
+"167","Nauru","NRU",NA
+"168","New Zealand","NZL",NA
+"169","Oman","OMN",NA
+"170","Pakistan","PAK","AFG IND"
+"171","Panama","PAN",NA
+"172","Pitcairn","PCN",NA
+"173","Peru","PER","ECU"
+"174","Philippines","PHL",NA
+"175","Palau","PLW",NA
+"176","Papua New Guinea","PNG",NA
+"177","Poland","POL",NA
+"178","Puerto Rico","PRI",NA
+"179","North Korea","PRK","CHN JPN KOR RUS USA"
+"180","Portugal","PRT","IDN TLS"
+"181","Paraguay","PRY",NA
+"182","Palestine","PSE","ISR JOR"
+"183","French Polynesia","PYF",NA
+"184","Qatar","QAT",NA
+"185","Reunion","REU",NA
+"186","Romania","ROU",NA
+"187","Russia","RUS","ARM AZE CHN JPN KOR PRK USA KAZ KGZ TJK MNG DEU FRA GBR GEO MDA SYR TUR"
+"188","Rwanda","RWA","AGO BDI CAF COD COG KEN SDN TZA UGA ZMB ZAF SSD"
+"189","Saudi Arabia","SAU","YEM"
+"190","Sudan","SDN","AGO BDI CAF COD COG KEN RWA TZA UGA ZMB TCD ERI SSD"
+"191","Senegal","SEN",NA
+"192","Singapore","SGP",NA
+"193","South Georgia and the South Sandwich Islands","SGS",NA
+"194","Saint Helena, Ascension and Tristan da Cunha","SHN",NA
+"195","Svalbard and Jan Mayen","SJM",NA
+"196","Solomon Islands","SLB",NA
+"197","Sierra Leone","SLE",NA
+"198","El Salvador","SLV","CRI GTM HND NIC"
+"199","San Marino","SMR",NA
+"200","Somalia","SOM","ERI ETH"
+"201","Saint Pierre and Miquelon","SPM",NA
+"202","Serbia","SRB",NA
+"203","Sao Tome and Principe","STP",NA
+"204","Suriname","SUR",NA
+"205","Slovakia","SVK",NA
+"206","Slovenia","SVN","HRV"
+"207","Sweden","SWE",NA
+"208","Swaziland","SWZ",NA
+"209","Seychelles","SYC",NA
+"210","Syria","SYR","LBN RUS TUR"
+"211","Turks and Caicos Islands","TCA",NA
+"212","Chad","TCD","CAF SDN LBY"
+"213","Togo","TGO",NA
+"214","Thailand","THA",NA
+"215","Tajikistan","TJK","CHN KAZ KGZ RUS"
+"216","Tokelau","TKL",NA
+"217","Turkmenistan","TKM",NA
+"218","Timor","TLS","IDN PRT"
+"219","Tonga","TON",NA
+"220","Trinidad and Tobago","TTO",NA
+"221","Tunisia","TUN",NA
+"222","Turkey","TUR","RUS SYR"
+"223","Tuvalu","TUV",NA
+"224","Taiwan","TWN",NA
+"225","Tanzania","TZA","AGO BDI CAF COD COG KEN RWA SDN UGA ZMB ZAF SSD"
+"226","Uganda","UGA","AGO BDI CAF COD COG KEN RWA SDN TZA ZMB ZAF SSD"
+"227","Ukraine","UKR",NA
+"228","United States Minor Outlying Islands","UMI",NA
+"229","Uruguay","URY",NA
+"230","United States","USA","CHN JPN KOR PRK RUS DEU FRA GBR IRQ"
+"231","Uzbekistan","UZB",NA
+"232","Holy See (Vatican City State)","VAT",NA
+"233","Saint Vincent and the Grenadines","VCT",NA
+"234","Venezuela","VEN","COL"
+"235","Virgin Islands, British","VGB",NA
+"236","Virgin Islands, U.S.","VIR",NA
+"237","Viet Nam","VNM",NA
+"238","Vanuatu","VUT",NA
+"239","Wallis and Futuna","WLF",NA
+"240","Samoa","WSM",NA
+"241","Yemen","YEM","SAU"
+"242","South Africa","ZAF","AGO BDI CAF COD COG RWA TZA UGA ZMB SSD NAM"
+"243","Zimbabwe","ZWE",NA
+"244","Zambia","ZMB","AGO BDI CAF COD COG KEN RWA SDN TZA UGA ZAF SSD"
+"245","South Sudan","SSD","AGO BDI CAF COD COG RWA TZA UGA ZAF ZMB SDN"
